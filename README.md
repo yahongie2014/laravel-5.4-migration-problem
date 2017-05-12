@@ -13,4 +13,5 @@ then import schema illuminate for laravel on the top
 then make migrate
 #
 >php artisan make migrate
-#Great u r now on :)
+
+# Great u r now on :)
