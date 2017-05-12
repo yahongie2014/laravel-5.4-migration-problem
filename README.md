@@ -7,7 +7,7 @@ After installlation laravel 5.4 and make migrate that
 then import schema illuminate for laravel on the top
 #
 >use Illuminate\Support\Facades\Schema;
-#save it and type that command : 
+# save it and type that command : 
 >php artisan migrate:rollback or dump your database
 #
 then make migrate
