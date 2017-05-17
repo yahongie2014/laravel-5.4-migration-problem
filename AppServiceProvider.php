@@ -15,7 +15,11 @@ class AppServiceProvider extends ServiceProvider
     {
 		Schema::defaultStringLength(191);
     }
-
+	
+	public function stable(){
+		$hey = '1' ;
+		var_dump($hey);
+	}
     /**
      * Register any application services.
      *
